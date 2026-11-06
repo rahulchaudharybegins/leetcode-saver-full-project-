@@ -1,0 +1,43 @@
+<escape><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" fill="none">
+  <rect x="1" y="1" width="718" height="438" rx="20" fill="#fff" stroke="#E5E7EB" stroke-width="2"/>
+  <path d="M1 21A20 20 0 0 1 21 1h678a20 20 0 0 1 20 20v40H1z" fill="#F9FAFB"/>
+  <circle cx="24" cy="25" r="5" fill="#F87171"/>
+  <circle cx="42" cy="25" r="5" fill="#FBBF24"/>
+  <circle cx="60" cy="25" r="5" fill="#34D399"/>
+  <rect x="22" y="80" width="142" height="336" rx="12" fill="#F9FAFB"/>
+  <rect x="38" y="99" width="104" height="13" rx="6" fill="#D1D5DB"/>
+  <rect x="38" y="136" width="88" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="38" y="164" width="96" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="38" y="192" width="76" height="10" rx="5" fill="#E5E7EB"/>
+  <rect x="185" y="83" width="500" height="92" rx="12" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <text x="207" y="110" font-family="Arial,sans-serif" font-size="13" fill="#6B7280">PROBLEMS SOLVED</text>
+  <text x="207" y="150" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#111827">128</text>
+  <rect x="365" y="101" width="130" height="52" rx="9" fill="#EFF6FF"/>
+  <text x="380" y="122" font-family="Arial,sans-serif" font-size="11" fill="#2563EB">REVISION READY</text>
+  <text x="380" y="141" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#1D4ED8">42 problems</text>
+  <rect x="510" y="101" width="150" height="52" rx="9" fill="#F5F3FF"/>
+  <text x="525" y="122" font-family="Arial,sans-serif" font-size="11" fill="#7C3AED">TOPIC TAGS</text>
+  <text x="525" y="141" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#6D28D9">12 topics</text>
+  <text x="187" y="207" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#111827">Recently saved</text>
+  <rect x="185" y="222" width="500" height="54" rx="10" fill="#fff" stroke="#E5E7EB"/>
+  <circle cx="208" cy="249" r="10" fill="#DCFCE7"/>
+  <path d="m203 249 4 4 7-8" stroke="#16A34A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="230" y="246" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Two Sum</text>
+  <text x="230" y="262" font-family="Arial,sans-serif" font-size="11" fill="#6B7280">Arrays · Hash Table</text>
+  <rect x="588" y="237" width="76" height="23" rx="11" fill="#DCFCE7"/>
+  <text x="602" y="252" font-family="Arial,sans-serif" font-size="11" fill="#15803D">Easy</text>
+  <rect x="185" y="287" width="500" height="54" rx="10" fill="#fff" stroke="#E5E7EB"/>
+  <circle cx="208" cy="314" r="10" fill="#DBEAFE"/>
+  <path d="m203 314 4 4 7-8" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="230" y="311" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Longest Substring</text>
+  <text x="230" y="327" font-family="Arial,sans-serif" font-size="11" fill="#6B7280">Sliding Window · Strings</text>
+  <rect x="588" y="302" width="76" height="23" rx="11" fill="#FEF3C7"/>
+  <text x="599" y="317" font-family="Arial,sans-serif" font-size="11" fill="#92400E">Medium</text>
+  <rect x="185" y="352" width="500" height="54" rx="10" fill="#fff" stroke="#E5E7EB"/>
+  <circle cx="208" cy="379" r="10" fill="#EDE9FE"/>
+  <path d="m203 379 4 4 7-8" stroke="#7C3AED" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="230" y="376" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Binary Tree Paths</text>
+  <text x="230" y="392" font-family="Arial,sans-serif" font-size="11" fill="#6B7280">Trees · DFS</text>
+  <rect x="588" y="367" width="76" height="23" rx="11" fill="#FEF3C7"/>
+  <text x="599" y="382" font-family="Arial,sans-serif" font-size="11" fill="#92400E">Medium</text>
+</svg></escape>
